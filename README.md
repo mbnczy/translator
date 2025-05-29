@@ -25,7 +25,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/yourusername/translator.git
-cd translator
+cd translator/src
 pip install -r requirements.txt
 ```
 
