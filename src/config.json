@@ -1,0 +1,15 @@
+{
+    "data_path": "../data/cz_not_translated.csv",
+    "delimiter": ",",
+    "source_lang": "cs",
+    "target_lang": "en",
+    "num_chunks": 4,
+    "column_name": "text",
+    "translated_column_name": "english_text",
+    "row_start": -1,
+    "row_end": -1,
+    "write_step": 1,
+    "active_logging_minutes": 2,
+    "log_interval": 1,
+    "patience": 2
+}
